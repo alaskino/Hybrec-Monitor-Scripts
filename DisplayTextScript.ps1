@@ -33,7 +33,7 @@
     Check README file for more infos.
 #>
 # URL
-$url = "http://192.168.XXX.XXX/gendata/impostazioni.html" # URL for English products, be careful as it might change.
+$url = "http://192.168.XXX.XXX/gendata/impostazioni.html" # Be careful as it might change.
 $word = Read-Host "Enter the word or phrase you want to display:" # Ask the user for the word or phrase to display.
 
 Write-Host "Enter colors (separated by commas) choosing from: red, yellow, green, blue, white, cyan, magenta" # Ask for the colors, multiple colors can be chosen by separating them with commas.
