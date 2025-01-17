@@ -1,6 +1,6 @@
 # DisplayTextScript.ps1
 
-![Project Banner](https://i.ibb.co/34Xtz8w/Nuovo-progetto.png)
+![Project Banner](https://camo.githubusercontent.com/8a26e1d73d23969baa096dcab6d2dede7d0970122193cddfc1e1ad5b34215fda/68747470733a2f2f692e6962622e636f2f333458747a38772f4e756f766f2d70726f676574746f2e706e67)
 
 ## English Version
 
